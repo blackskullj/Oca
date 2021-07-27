@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "176077278200",
+    "project_id": "ocagame-4010c",
+    "firebase_url": "https://ocagame-4010c-default-rtdb.firebaseio.com/",
+    "storage_bucket": "ocagame-4010c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:176077278200:android:a578aae45f6aac5f35640d",
+        "android_client_info": {
+          "package_name": "com.DefaultCompany.Test"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "176077278200-o9afo34o8asnpdula3acbcgp7fik74r0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA0xdnHkEZ3uskd8kR68ykQH6m-wVaICGI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "176077278200-o9afo34o8asnpdula3acbcgp7fik74r0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
